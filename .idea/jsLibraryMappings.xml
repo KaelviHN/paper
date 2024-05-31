@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="MyBlog/vue/sg-blog-vue/node_modules" />
+    <excludedPredefinedLibrary name="MyBlog/vue/sg-vue-admin/node_modules" />
+  </component>
+</project>

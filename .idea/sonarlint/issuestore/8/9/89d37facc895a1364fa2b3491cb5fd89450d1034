@@ -1,0 +1,13 @@
+
+	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(ÜÅ‚úJ$e2e9b363-e914-4081-be43-ee8f53301b36
+
+java:S1192I"MUse already-defined constant 'JWT_KEY' instead of duplicating its value here.(ÍáÎ
+8ª¡€¨à1J$cd691946-a25f-465d-b7d7-0270285cd5d1
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "token".(ŞéÕİøÿÿÿÿJ$5827bca2-0ead-4ddb-bbc3-aff27b765a1c
+œ
+java:S1488e"[Immediately return this expression instead of assigning it to the temporary variable "key".(û½›ÿÿÿÿÿJ$ebfc8b1e-979b-45d9-b4f3-027894ac711d
+}
+java:S1118":Add a private constructor to hide the implicit public one.(×ÇÃê8¼”ÿ§à1J$389e3967-5351-4555-9ad7-eb9007af22a7
+‰
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ŞéÕİøÿÿÿÿJ$1bc6ea02-bd1a-400e-ac05-72cdf5077339
